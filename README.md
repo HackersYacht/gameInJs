@@ -1,1 +1,1 @@
-# game in JS
+# howToDealWithLettersOnKeyboard
